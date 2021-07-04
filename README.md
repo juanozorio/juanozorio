@@ -14,6 +14,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juan.ozorio.157)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozoriozika/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`)](https://www.linkedin.com/in/juan-oz%C3%B3rio-065bab170/)
+#### Email :e-mail: : juan_ozorio@outlook.com 
 
 
 
