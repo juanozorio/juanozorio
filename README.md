@@ -22,15 +22,11 @@
 
 ## 🎓 Sobre Mim
 
-Sou estudante e tenho um curso técnico de informática pelo SENAC focado em desenvolvimento. 
+Estou estudando programação e tenho um curso técnico de informática pelo SENAC focado em desenvolvimento.
 
-Me dedico bastante para realizar o desejo de um dia ser programador.. 
-
-
+Tenho me dedicado para crescer em conhecimento, e poder atuar como desenvolvedor, me trazendo experiência para colocar na prática, o que eu tenho estudado no teórico.
 
 
-
-  
 
 ## 🚀 Aprendendo...
 
@@ -38,20 +34,18 @@ Me dedico bastante para realizar o desejo de um dia ser programador..
 
 ### Tecnologias de Front-end
 
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
   
 
 ### Tecnologias de Back-end
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Banco de Dados
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
