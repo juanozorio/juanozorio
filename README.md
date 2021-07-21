@@ -22,9 +22,9 @@
 
 ## 🎓 Sobre Mim
 
-Estou estudando programação e tenho um curso técnico de informática pelo SENAC focado em desenvolvimento.
+Atualmente, estudo programação e possuo curso técnico de informática, focado em desenvolvimento, pelo SENAC-RJ.
 
-Tenho me dedicado para crescer em conhecimento, e poder atuar como desenvolvedor, me trazendo experiência para colocar na prática, o que eu tenho estudado no teórico.
+Meu foco é me tornar um desenvolvedor, por este motivo tenho me dedicado a me capacitar cada vez mais tecnicamente e pessoalmente.
 
 
 
