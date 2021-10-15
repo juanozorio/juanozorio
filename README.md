@@ -39,9 +39,7 @@ Meu foco é me tornar um desenvolvedor, por este motivo tenho me dedicado a me c
 
 ![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Tecnologias de Back-end
 
@@ -50,4 +48,3 @@ Meu foco é me tornar um desenvolvedor, por este motivo tenho me dedicado a me c
 ### Banco de Dados
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
