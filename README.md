@@ -24,7 +24,7 @@
 
 Atualmente, estudo programação e possuo curso técnico de informática, focado em desenvolvimento, pelo SENAC-RJ.
 
-Meu foco é me tornar um Desenvolvedor por este motivo tenho me dedicado a me capacitar cada vez mais tecnicamente e pessoalmente.
+Meu foco é me tornar um Desenvolvedor Back End por este motivo tenho me dedicado a me capacitar cada vez mais tecnicamente e pessoalmente.
 
 
 
