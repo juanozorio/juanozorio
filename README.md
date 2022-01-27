@@ -24,27 +24,16 @@
 
 Atualmente, estudo programação e possuo curso técnico de informática, focado em desenvolvimento, pelo SENAC-RJ.
 
-Meu foco é me tornar um desenvolvedor, por este motivo tenho me dedicado a me capacitar cada vez mais tecnicamente e pessoalmente.
+Meu foco é me tornar um Desenvolvedor por este motivo tenho me dedicado a me capacitar cada vez mais tecnicamente e pessoalmente.
 
 
 
 ## 🚀 Aprendendo...
 
-### Linguagem de Marcação
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tecnologias de Front-end
-
 ![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tecnologias de Back-end
-
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Banco de Dados
-
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
